@@ -82,7 +82,7 @@ function draw(){
     
         noStroke();
         textSize(25)
-        fill("white")
+        fill("black")
         text("Score  " + score, width-300, 50)
     
     Engine.update(engine);
